@@ -3,10 +3,12 @@
 I'm a senior at St. Olaf College with a focus on backend engineering and systems programming.
 
 - I'm currently learning full-stack webdev.
-- How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-sawires)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@davidsawires.com)
 - I was a teaching assistant for Software Design and Operating Systems.
 - Coursework: Analysis of Algorithms, Algorithms for Decision Making, Computational Imaging, Computational Mathematics, Computational Geometry, Data Structures, Foundations of AI, Graph Theory, Operating Systems, Probability Theory
+Contact me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-sawires)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@davidsawires.com)
+
 
 
 
