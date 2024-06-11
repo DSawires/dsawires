@@ -1,6 +1,6 @@
 ### Hi, I'm David! 👋
 
-I'm a senior at St. Olaf College with a focus on backend engineering and systems programming.
+I'm a recent graduate from St. Olaf College with a focus on backend engineering and systems programming.
 
 - I'm currently learning full-stack webdev.
 - I was a teaching assistant for Software Design and Operating Systems.
